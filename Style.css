@@ -1,0 +1,17 @@
+.headerBackground {
+  background: #f8f9fa
+}
+.carousel-inner h5 {
+  font-family: 'Roboto', sans-serif;
+  background: black;
+  padding: 5px;
+  margin: 0px 170px 20px 170px;
+  font-size: 220%;
+  letter-spacing: 4px;
+}
+.carousel-inner p {
+  font-family: 'Roboto', sans-serif;
+  margin: 0px 170px 150px 170px;
+  color: black;
+  letter-spacing: 4px;
+}
